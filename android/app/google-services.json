@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125789744527",
+    "project_id": "moshisamp",
+    "storage_bucket": "moshisamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125789744527:android:6b67fbe78b5ff29be16ffa",
+        "android_client_info": {
+          "package_name": "com.example.moshi_sample3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125789744527-lc9uhtkl7nuuds0utdop7la1l20q1q8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86FnI0dAFK1ybwqR71hdVXloSdorzxhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125789744527-lc9uhtkl7nuuds0utdop7la1l20q1q8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
